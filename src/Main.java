@@ -9,7 +9,7 @@ public class Main
 	{
 		System.out.println("Start!");
 		task1();
-		//task2();
+		task2();
 		System.out.println("Done!");
 	}
 	
